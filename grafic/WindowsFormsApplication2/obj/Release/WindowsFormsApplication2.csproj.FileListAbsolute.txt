@@ -1,0 +1,16 @@
+C:\Users\Acasa\Desktop\X&O\Backup\WindowsFormsApplication2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Acasa\Desktop\X&O\Backup\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\Acasa\Desktop\X&O\Backup\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Acasa\Desktop\X&O\Backup\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Acasa\Desktop\X&O\Backup\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\Acasa\Desktop\X&O\Backup\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\Acasa\Desktop\X&O\Backup\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\Acasa\Desktop\X&O\Backup\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+C:\Users\Acasa\Desktop\grafic\WindowsFormsApplication2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Acasa\Desktop\grafic\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Acasa\Desktop\grafic\WindowsFormsApplication2\bin\Release\Grafic.exe
+C:\Users\Acasa\Desktop\grafic\WindowsFormsApplication2\bin\Release\Grafic.pdb
+C:\Users\Acasa\Desktop\grafic\WindowsFormsApplication2\obj\Release\Grafic.frmGrafic.resources
+C:\Users\Acasa\Desktop\grafic\WindowsFormsApplication2\obj\Release\Grafic.Properties.Resources.resources
+C:\Users\Acasa\Desktop\grafic\WindowsFormsApplication2\obj\Release\Grafic.exe
+C:\Users\Acasa\Desktop\grafic\WindowsFormsApplication2\obj\Release\Grafic.pdb
